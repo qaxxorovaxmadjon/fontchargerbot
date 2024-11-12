@@ -5,6 +5,7 @@ This is the full code for a Telegram bot that helps people change their texts in
 The bot provides a simple way for Telegram users to apply different fonts to their text messages. It supports a wide range of font styles, including <b><i>`bold, dark bubbles, semibold, squares, sky blue, serif, fraktur`</i></b> and many more. Users can choose the font style they want. The bot will respond with the same message, but with the requested font style applied.
 
 
+
 ## How to run the bot locally
 
 To run the bot on your local machine, follow these steps:
@@ -16,5 +17,5 @@ To run the bot on your local machine, follow these steps:
 
 ##### Once the bot is running, you can interact with it on Telegram.
 
-Youtube : https://youtube.com/@qaxxorovdevv
-Telegram : https://t.me/qaxxorovdevv
+[Youtube](https://youtube.com/@qaxxorovdevv) 
+[Telegram](https://t.me/qaxxorovdevv)
