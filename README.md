@@ -18,4 +18,4 @@ To run the bot on your local machine, follow these steps:
 ##### Once the bot is running, you can interact with it on Telegram.
 
 Youtube : https://youtube.com/@qaxxorovdevv
-https://t.me/qaxxorovdevv
+Telegram : https://t.me/qaxxorovdevv
