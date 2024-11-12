@@ -19,3 +19,6 @@ To run the bot on your local machine, follow these steps:
 
 [Youtube](https://youtube.com/@qaxxorovdevv) 
 [Telegram](https://t.me/qaxxorovdevv)
+
+
+[Programmer](https://github.com/sobirjonovme/) 
